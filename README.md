@@ -14,7 +14,7 @@ setup:
 
 my blog posts on this idea:
 * https://www.greggerslab.com/2022/11/rabbit-holes-and-lighting.html
-* https://www.greggerslab.com/2022/12/octolapse-raw-settings.html
+* https://www.greggerslab.com/2022/12/octolapse-raw-photo-settings.html
 
 Prerequisites:
 1. install Zip https://www.tecmint.com/install-zip-and-unzip-in-linux/
